@@ -11,7 +11,6 @@ Using a Raspberry Pi & its camera module, we will design a smart doorbell that c
 * Deployed ML model on Raspberry Pi
 * Lightweight face detection utilizing TensorFlow Lite
 * Capture image & classify upon arrival at door
-* Send notification upon arrival
 
 ### System Blocks:
 * Hardware:

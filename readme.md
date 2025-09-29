@@ -36,10 +36,10 @@ Dominique Denert:
 * Hardware: Responsible for configuring hardware physically as well as handle camera module interaction and and writing simple system code.
 
 ### Project Timeline:
-Weeks 1-3 - Idea finalized, research and outline system details
-Weeks 3-6 - Obtain and configure hardware components, implement TensorFlow Lite model
-Weeks 6-9 - Bring system together with system interaction and ML model
-Week 10 - Final touches / Presentation
+* Weeks 1-3 - Idea finalized, research and outline system details
+* Weeks 3-6 - Obtain and configure hardware components, implement TensorFlow Lite model
+* Weeks 6-9 - Bring system together with system interaction and ML model
+* Week 10 - Final touches / Presentation
 
 ### References:
 * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)

@@ -29,10 +29,10 @@ Data obtained from camera -> Program running on Raspberry Pi <-> TensorFlow Lite
 
 ### Team Member Responsibilities:
 Gabriel Maravilla:
-* Software: Responsible for creating TensorFlow Lite model and deploying in conjunction with system camera data.
+* Software: Responsible for creating TensorFlow Lite model and deploying in conjunction with system camera data in system code.
 
 Dominique Denert:
-* Hardware: Responsible for configuring hardware physically as well as handle camera module interaction and and writing simple system code.
+* Hardware: Responsible for configuring hardware physically as well as handle camera module interaction and writing simple system code.
 
 ### Project Timeline:
 * Weeks 1-3: Idea finalized, research and outline system details

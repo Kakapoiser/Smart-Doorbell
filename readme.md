@@ -16,6 +16,7 @@ Using a Raspberry Pi & its camera module, we will design a smart doorbell that c
 ### System Blocks:
 * Hardware:
 <img width="342" height="364" alt="image" src="https://github.com/user-attachments/assets/2f35e3e7-5eec-4939-8e9e-9eead03df148" />
+
 * Software:
 Data obtained from camera -> Program running on Raspberry Pi <-> TensorFlow Lite model
 
@@ -42,3 +43,4 @@ Week 10 - Final touches / Presentation
 
 ### References:
 * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+* [IEEEXplore: Real Time Deep Learning based Face Recognition System Using Raspberry PI](https://ieeexplore-ieee-org.silk.library.umass.edu/document/10508526)

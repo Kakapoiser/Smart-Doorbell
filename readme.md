@@ -1,20 +1,20 @@
 # Raspberri Pi Smart Doorbell
 ## By Dominique Denert & Gabriel Maravilla
 
-### Motivation
+### Motivation:
 
-### Design Goals
+### Design Goals:
 
-### Deliverables
+### Deliverables:
 
-### System Blocks
+### System Blocks:
 
-### Hardware Requirements
+### Hardware Requirements:
 
-### Software Requirements
+### Software Requirements:
 
-### Team Member Responsibilities
+### Team Member Responsibilities:
 
-### Project Timeline
+### Project Timeline:
 
-### References
+### References:
